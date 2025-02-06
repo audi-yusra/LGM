@@ -282,7 +282,7 @@ To use this project locally, follow these steps:
 # WEB TASK 3
 
 
-# 🧮 **Calculator Web Application** 🧮
+# Modern Calculator Web Application
 
 Welcome to the **Calculator Web Application**! This is a sleek, responsive, and user-friendly calculator built using **HTML**, **CSS**, and **JavaScript**. Whether you're performing simple arithmetic or complex calculations, this calculator has got you covered. With a clean design, smooth animations, and support for all basic operations, it’s the perfect tool for quick calculations on the go.
 
