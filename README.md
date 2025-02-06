@@ -144,7 +144,7 @@ themes.forEach(theme => {
 # WEB TASK 2
 
 
-# 🎓 **Student Registration Form** 🎓
+# Student Registration Form Web Application
 
 Welcome to the **Student Registration Form** project! This is a sleek, user-friendly, and responsive web application designed to collect and display student information effortlessly. Whether you're managing student data for a school, college, or any educational institution, this form simplifies the process with its intuitive design and dynamic functionality.
 
