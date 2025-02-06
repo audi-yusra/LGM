@@ -1,7 +1,7 @@
 # WEB TASK 1
 
 
-# 🌟 **Todo List Web Application** 🌟
+# Smart Todo List Web App
 
 Welcome to the **Todo List Web Application**! This project is a sleek, user-friendly, and feature-packed task management tool built using **HTML**, **CSS**, and **JavaScript**. Whether you're a productivity enthusiast or just someone looking to organize your daily tasks, this app has got you covered. With a **theme switcher**, **local storage support**, and a responsive design, it’s the perfect companion for managing your todos efficiently.
 
